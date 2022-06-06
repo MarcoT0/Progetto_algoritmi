@@ -42,3 +42,5 @@ spiegato maggiormente nel capitolo dedicato.
 
 Il nostro progetto è stato diviso in due parti, la prima parte integra l'html con un sistema login e registrazione con i dati salvati su un dtabase sqllite, questo serve per registrazione... 
 La seconda parte è un programma in codice python che 
+
+prova di modifica
